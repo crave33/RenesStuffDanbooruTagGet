@@ -9,6 +9,6 @@ Repository = "https://github.com/crave33/RenesStuffDanbooruTagGet"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "crave33"
 DisplayName = "RenesStuffDanbooruTagGet"
 Icon = ""
