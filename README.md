@@ -1,4 +1,4 @@
-# RenesStuffDanboruTagGet
+# RenesStuffDanbooruTagGet
 
 generate tags / prompt from danboru image_id input
 
